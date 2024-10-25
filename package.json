@@ -1,0 +1,31 @@
+{
+    "name": "realtime-editor",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "vite": "^5.4.9"
+    },
+    "dependencies": {
+        "@editorjs/checklist": "^1.6.0",
+        "@editorjs/code": "^2.9.2",
+        "@editorjs/delimiter": "^1.4.2",
+        "@editorjs/editorjs": "^2.30.6",
+        "@editorjs/inline-code": "^1.5.1",
+        "@editorjs/link": "^2.6.2",
+        "@editorjs/list": "^1.10.0",
+        "@editorjs/quote": "^2.7.2",
+        "@editorjs/warning": "^1.4.0",
+        "editorjs-caret-selection": "../../editorjs-caret-selection",
+        "editorjs-header-with-alignment": "^1.0.1",
+        "express": "^4.21.1",
+        "http": "^0.0.1-security",
+        "socket.io": "^4.8.0",
+        "socket.io-client": "^4.8.0"
+    }
+}
