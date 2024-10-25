@@ -1,6 +1,6 @@
 # Realtime WYSIWYG Editor With Responsive Caret Selection
 
-An EditorJS instance with Realtime block changes and Responsive Caret Selection with Express.js and Socket.Io. This is the repository for the Medium article.  
+An EditorJS instance with Realtime block changes and Responsive Caret Selection with Express.js and Socket.Io. This is the repository for [the Medium article](https://medium.com/@thomasbrillion/build-your-own-collaborative-realtime-notion-11c361fb2cbe).  
 
 ![Demo](demo.gif)
 
