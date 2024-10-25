@@ -2,6 +2,8 @@
 
 An EditorJS instance with Realtime block changes and Responsive Caret Selection with Express.js and Socket.Io. This is the repository for the Medium article.  
 
+![Demo](demo.gif)
+
 ## Clone this repository
 
 ```bash
